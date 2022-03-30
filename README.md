@@ -2,7 +2,7 @@
 
 ## Overview
 
-ListApp is a simple application which allow users, to set new tasks for for upcoming days with exact hour. User also can mark these tasks as done or 
+ListApp is a simple application which allow user, to set new tasks for for upcoming days with exact hour. User also can mark these tasks as done or 
 completely delate them. 
 
 Built with Swift using Xcode 13.3 & SwiftUI framework
